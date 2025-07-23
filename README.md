@@ -29,7 +29,7 @@ By now, I have been **Programming for 18+ years** where:
 * I built a cryptocurrency block explorer supporting Bitoin + its forks, when I maintained this, it had a 2TB postgres database just for Bitcoin (but it indexed multiple coins): [block-explorer](https://github.com/wiringbits/block-explorer).
 * I used to work with Browser Extensions, then, I created a template: [chrome-scalajs-template](https://github.com/AlexITC/chrome-scalajs-template).
 
-Also, there are many blog posts from me at the [Wiringbits blog](https://wiringbits.net) which mention more projects.
+There are many blog posts from me at the [Wiringbits blog](https://wiringbits.net) which mention more projects, it also includes lots of testimonials from my work.
 
 
 ### ✉️ **Connect With Me**
