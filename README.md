@@ -28,7 +28,7 @@ By now, I have been **Programming for 18+ years** where:
 - I handled the forking process from the [Snowplow](https://snowplow.io/) components into [OpenSnowcat](https://github.com/opensnowcat) after Snowplow's license change.
 - I have restored many legacy service like [Kestrel](https://github.com/twitter-archive/kestrel) from 2009, which is detailed in this talk: [Welcome to Scala 2.7.7... in 2024](https://www.youtube.com/watch?v=SJxEXAkxD3I)
 - I have worked extensively with Scala where I created a template for building fullstack apps with Scala and Scala.js: [scala-webapp-template](https://github.com/wiringbits/scala-webapp-template).
-* I built a cryptocurrency block explorer supporting Bitoin + its forks, when I maintained this, it had a 2TB postgres database just for Bitcoin (but it indexed multiple coins): [block-explorer](https://github.com/wiringbits/block-explorer).
+* I built a cryptocurrency block explorer supporting Bitcoin + its forks, when I maintained this, it had a 2TB postgres database just for Bitcoin (but it indexed multiple coins): [block-explorer](https://github.com/wiringbits/block-explorer).
 * I used to work with Browser Extensions, then, I created a template: [chrome-scalajs-template](https://github.com/AlexITC/chrome-scalajs-template).
 
 There are many blog posts from me at the [Wiringbits blog](https://wiringbits.net) which mention more projects, it also includes lots of testimonials from my work.
