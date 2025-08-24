@@ -9,7 +9,7 @@ I'm human who genuinely cares about helping others, in my career I have trained 
 
 ### 🚀 **About Me**
 
-I got into programming the hard way; learning Assembler by myself to reverse engineer the firmware from Sony Ericsson mobile devices in an environment with no one to ask for help. Since then, I have been in love with programming and I have used tried a lot of programming languages and technologies.
+I got into programming the hard way; learning Assembler by myself to reverse engineer the firmware from Sony Ericsson mobile devices in an environment with no one to ask for help. Since then, I have been in love with programming and I have worked with a lot of programming languages and technologies.
 
 By now, I have been **Programming for 18+ years** where:
 
