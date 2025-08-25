@@ -23,6 +23,7 @@ By now, I have been **Programming for 18+ years** where:
 
 ### **Specific projects**
 
+- I'm working on [geminilive4s](https://github.com/AlexITC/geminilive4s): A library to use Gemini Live API on Scala.
 - I built [twimini-bot](https://github.com/AlexITC/twimini-bot): A bot connecting Gemini Live API to voice calls through Twilio: 
 - I contributed considerably to the [GCP Batch backend](https://github.com/broadinstitute/cromwell/tree/develop/supportedBackends/google/batch/src) [Cromwell](https://cromwell.readthedocs.io/en/latest/backends/GCPBatch/).
 - I handled the forking process from the [Snowplow](https://snowplow.io/) components into [OpenSnowcat](https://github.com/opensnowcat) after Snowplow's license change.
